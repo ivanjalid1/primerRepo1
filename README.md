@@ -1,10 +1,11 @@
 # primerRepo1
 
 ## Autor
-*Ivan Heredia Jalid
+* Ivan **Heredia Jalid**
 
 
 ## Contenido/Descripción
+Se creará una página web con HTML, CSS y Javascript, para Laboratorio de Computación.
 
 | Email | Autores |
 |-------|---------|
